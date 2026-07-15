@@ -72,11 +72,11 @@
   </tr>
   <tr>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/b50c6487-9bac-4fe5-825e-2c60079e3eb5" alt="조리 모드" style="width: 560px; max-width: 100%; height: 535px; object-fit: cover;"/>
-      <p><strong>레시피 상세 (대체재 안내)</strong></p>
+      <img src="https://github.com/user-attachments/assets/1187bcd3-5c1c-44b1-884a-9baf1f9317d4" alt="조리 모드" style="width: 560px; max-width: 100%; height: 535px; object-fit: cover;"/>
+      <p><strong>레시피 상세</strong></p>
     </td>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/bb231989-332e-4937-b060-31dd580d5ed5" alt="음성 질의" style="width: 560px; max-width: 100%; height: 535px; object-fit: cover;"/>
+      <img src="https://github.com/user-attachments/assets/22804004-0944-402d-a512-3813af69760b" alt="음성 질의" style="width: 560px; max-width: 100%; height: 535px; object-fit: cover;"/>
       <p><strong>조리 모드</strong></p>
     </td>
   </tr>
