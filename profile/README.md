@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/c88eb03a-13e1-44ef-bb3f-0431285129b5" alt="레시피 후보 추천" style="width: 560px; max-width: 100%; height: 510px; object-fit: cover;">
+      <img src="https://github.com/user-attachments/assets/9b2bab83-1c28-429e-9a77-e6c7732bc5b6" alt="레시피 후보 추천" style="width: 560px; max-width: 100%; height: 510px; object-fit: cover;">
       <p><strong>재료선택</strong></p>
     </td>
     <td align="center" style="width: 50%; padding: 10px;">
