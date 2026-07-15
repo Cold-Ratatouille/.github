@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src=" " alt="레시피 후보 추천" style="width: 560px; max-width: 100%; height: 510px; object-fit: cover;">
+      <img src="https://github.com/user-attachments/assets/7f1ec5bc-732b-44fe-9644-e5af89f7f4db" alt="레시피 후보 추천" style="width: 560px; max-width: 100%; height: 510px; object-fit: cover;">
       <p><strong>재료선택</strong></p>
     </td>
     <td align="center" style="width: 50%; padding: 10px;">
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/ccab20c2-fe5e-42d1-baf9-d4a85dcc1635" alt="조리 모드" style="width: 560px; max-width: 100%; height: 535px; object-fit: cover;"/>
+      <img src="https://github.com/user-attachments/assets/b50c6487-9bac-4fe5-825e-2c60079e3eb5" alt="조리 모드" style="width: 560px; max-width: 100%; height: 535px; object-fit: cover;"/>
       <p><strong>레시피 상세 (대체재 안내)</strong></p>
     </td>
     <td align="center" style="width: 50%; padding: 10px;">
