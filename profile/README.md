@@ -106,8 +106,8 @@
 
 ### 1) 클론
 ```bash
-git clone <repo-url>
-cd project
+git clone https://github.com/Cold-Ratatouille/RatBox-BE.git
+git clone https://github.com/Cold-Ratatouille/RatBox-FE.git
 ```
 
 ### 2) Backend (RatBox-BE) 준비
