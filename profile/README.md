@@ -6,7 +6,7 @@
 # RatBox
 
 ## 1. 프로젝트 소개
-- **한 줄 소개**: 냉장고 속 재료로 레시피와 대체재를 추천하고, 요리 중 음성 질문에도 실시간으로 답해주는 AI 요리 비서
+- **한 줄 소개**: 냉장고 속 재료로 알레르기까지 고려한 레시피와 대체재를 추천하고, 요리 중 음성 질문에도 실시간으로 답해주는 AI 요리 비서
 - **주요 사용자**: 자취생·1인 가구, 그중에서도 "이 재료 없어도 되나?"를 스스로 판단하기 어려운 초보 자취러. 
 - **프로젝트를 만들게 된 배경**: 자취생·1인 가구는 재료를 소량·비정형으로 보유해, 완전일치 검색이나 정형화된 필터 위주의 기존 레시피 서비스로는 "지금 가진 재료로 뭘 만들 수 있는지" 확인이 어려움. 요리 중에는 손에 물이나 재료가 묻어 텍스트 입력도 번거로워, 음성 인터페이스(STT) 기반 서비스가 적합하다고 판단해 기획함
 - **최종 결과물의 형태**: React 기반 모바일 웹앱 + FastAPI/LangGraph 기반 백엔드로 구성된 AI 서비스.
@@ -52,31 +52,31 @@
 <table align="center" style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 20px auto; table-layout: fixed;">
   <tr>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/1dec3c1a-8592-4e27-8c02-b2158f4cc6b3" alt="랜딩 페이지" style="width: 560px; max-width: 100%; height: 347px; object-fit: cover;">
+      <img src="https://github.com/user-attachments/assets/1dec3c1a-8592-4e27-8c02-b2158f4cc6b3" alt="랜딩 페이지" style="width: 560px; max-width: 100%; height: 340px; object-fit: cover;">
       <p><strong>랜딩 페이지</strong></p>
     </td>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/7d14284c-d1de-4f68-b267-237832beb570" alt="홈화면" style="width: 560px; max-width: 100%; height: 347px; object-fit: cover;"/>
+      <img src="https://github.com/user-attachments/assets/7d14284c-d1de-4f68-b267-237832beb570" alt="홈화면" style="width: 560px; max-width: 100%; height: 340px; object-fit: cover;"/>
       <p><strong>홈화면</strong></p>
     </td>
   </tr>
   <tr>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/7f1ec5bc-732b-44fe-9644-e5af89f7f4db" alt="레시피 후보 추천" style="width: 560px; max-width: 100%; height: 510px; object-fit: cover;">
+      <img src="https://github.com/user-attachments/assets/7f1ec5bc-732b-44fe-9644-e5af89f7f4db" alt="레시피 후보 추천" style="width: 560px; max-width: 100%; height: 570px; object-fit: cover;">
       <p><strong>재료선택</strong></p>
     </td>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/420beff0-319f-4934-abbb-816090191fc2" alt="레시피 상세" style="width: 560px; max-width: 100%; height: 510px; object-fit: cover;"/>
+      <img src="https://github.com/user-attachments/assets/420beff0-319f-4934-abbb-816090191fc2" alt="레시피 상세" style="width: 560px; max-width: 100%; height: 570px; object-fit: cover;"/>
       <p><strong>레시피 후보 추천</strong></p>
     </td>
   </tr>
   <tr>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/1187bcd3-5c1c-44b1-884a-9baf1f9317d4" alt="조리 모드" style="width: 560px; max-width: 100%; height: 535px; object-fit: cover;"/>
+      <img src="https://github.com/user-attachments/assets/1187bcd3-5c1c-44b1-884a-9baf1f9317d4" alt="조리 모드" style="width: 560px; max-width: 100%; height: 650px; object-fit: cover;"/>
       <p><strong>레시피 상세</strong></p>
     </td>
     <td align="center" style="width: 50%; padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/22804004-0944-402d-a512-3813af69760b" alt="음성 질의" style="width: 560px; max-width: 100%; height: 535px; object-fit: cover;"/>
+      <img src="https://github.com/user-attachments/assets/22804004-0944-402d-a512-3813af69760b" alt="음성 질의" style="width: 560px; max-width: 100%; height: 650px; object-fit: cover;"/>
       <p><strong>조리 모드</strong></p>
     </td>
   </tr>
@@ -90,7 +90,7 @@
 | 이름 | 역할 | GitHub |
 |---|---|---|
 | 김다인 | Backend, AI | @kallin1 |
-| 최서윤 | Frontend | @seoyunch |
+| 최서윤 | Backend, Infra, Frontend | @seoyunch |
 
 <br/>
 <br/>
